@@ -63,7 +63,7 @@ Test this out and resize the page. There are a couple things missing.
 
 > [action]
 >
-> Add the following to the `.POPSList` rule in `PLACESList.css`
+> Add the following to the `.PLACESList` rule in `PLACESList.css`
 >
 ```CSS
 .PLACESList {
